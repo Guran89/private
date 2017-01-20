@@ -1,0 +1,150 @@
+html{
+	height: 100%;
+}
+
+body{
+	font-family: pt sans, sans;
+	height: 100%;
+}
+
+#valkommen a{
+	text-decoration: underline;
+	font-style: italic;
+	color: black;
+}
+
+#page{
+	width: 45%;
+	padding: 25px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: rgba(252, 252, 252, 0.5);
+}
+
+#bgImage{
+	width: 100%;
+	background-image: url("../images/forest3.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#blogg a{
+	text-decoration: underline;
+	font-style: italic;
+	color: black;
+}
+
+header{
+	background: black;
+	color: white;
+	padding: 18px 22px 1px 22px;
+}
+
+footer{
+	background: black;
+	color: white;
+	padding: 18px 22px 18px 22px;
+}
+
+#blogg article{
+	background-color: rgba(252, 252, 252, 0.3);
+	padding: 25px;
+}
+
+/*DROPDOWN-MENY*/
+#nav{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: black;
+}
+
+#nav li{
+	float: left;
+}
+
+li a, .dropdown-btn{
+	display: inline-block;
+	text-align: center;
+	padding: 1px 18px 22px 22px;
+	text-decoration: none;
+}
+
+li .dropdown:hover, .dropdown-btn{
+	background-color: black;
+	color: white;
+}
+
+.dropdown-choice:hover{
+	color: black;
+	background-color: white;
+}
+
+li .dropdown{
+	display: inline-block;
+}
+
+.dropdown-menu{
+	display: none;
+	position: absolute;
+	background-color: #f5f5f5
+	width: 150px;
+	box-shadow: 0px 8px 16px 0px rbga(0, 0, 0, 0.1)
+}
+
+.dropdown-menu a{
+	color: grey;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+
+.dropdown-menu a{
+	background-color: black;
+	color: white;
+}
+
+.dropdown:hover .dropdown-menu{
+	display: block;
+}
+
+.left{
+	
+	width: 100%;
+}
+
+.left p{
+	margin-left: 30px;
+	padding: 5px;
+}
+
+footer{
+	clear: both;
+}
+
+footer a{
+	text-decoration: underline;
+	font-style: italic;
+	color: white;
+}
+
+.internlink{
+	color: black;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+blockquote{
+	font-style: italic;
+}
+
+blockquote:hover{
+	background-color: rgba(252, 252, 252, 0.2);
+}
+
+li{
+	list-style-type: circle;
+}

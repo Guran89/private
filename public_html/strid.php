@@ -8,70 +8,20 @@
 	}
 </style>
 
-<!--<section class="left" id="rundor_och_handlingar">
-	<h2>Rundor och handlingar</h2>
-	<article>
-		<p>Strider är uppbyggda kring rundor. En runda är en kort men odefinerad tidsperiod under vilken alla deltagare i striden agerar i tur och ordning (se Vem börjar? nedan). När det är en deltagares tur har hon möjlighet att genomföra en eller flera handlingar. Det finns fyra typer av handlingar att välja bland under ens tur: Långa handlingar, Normala handlingar, Korta handlingar, och Fria handlingar. De olika typerna av handlingar kostar olika många Handlingspoäng att utföra (se avsnittet Handlingspoäng nedan). Utöver de ovanstående fyra handlingarna finns dessutom en femte typ, Reaktiva handlingar, som kan göras under någon annans tur.</p>
-	</article>
-	
-	<article>
-	<h3>Vem börjar?</h3>
-		<p>För att avgöra vem som agerar först inleds striden med att alla slår ett initiativ. Slå initiativvärdet + 1T10. Den som slår högst agerar först, följt av den som slog näst högst, och så vidare. Om två deltagare får samma initiativ börjar den med högst initiativvärde. Om också det är samma agerar rollpersoner före spelledarpersoner. Om det rör sig om två rollpersoner bestämmer spelarna vem av dem som agerar först.</p>
-	</article>
-
-	<article>
-		<h3>Handlingspoäng</h3>
-		<p>Under en runda har varje deltagare i striden tre handlingspoäng (HP) var. Olika handlingar kostar olika mycket HP. En handling som kostar mer HP än du har tillgängligt är inte möjlig att genomföra. Du behöver inte använda alla HP under din tur, utan kan välja att spara dem rundan ut. Sparade HP kan endast användas till reaktiva handlingar. När rundan är slut förlorar alla deltagare sina kvarvarande HP, och får tre nya när nästa runda börjar. Det går alltså inte att spara HP mellan rundor, om rollpersonen inte har en styrka som tillåter det.</p>
-	</article>
-	
-	<article>
-		<h4>Varelser och handlingspoäng</h4>
-		<p>Vissa varelser är oerhört snabba och kan agera fler gånger än en vanlig människa. Sådana varelser kan ha fler än 3 HP.</p>
-	</article>
-
-	<article>
-		<h3>Lista på handlingar</h3>
-		<ul><b>Långsamma handlingar kostar 3 HP</b>
-			<li>Sikta och skjuta (+20% på slaget)</li>
-			<li>Skjuta automateld</li>
-		</ul>
-
-		<ul><b>Normala handlingar kostar 2 HP</b>
-			<li>Skjuta</li>
-			<li>Slagsmål</li>
-		</ul>
-
-		<ul><b>Snabba handlingar kostar 1 HP</b>
-			<li>Slarvigt skott (-20% på slaget)</li>
-			<li>Ta skydd</li>
-			<li>Plocka upp något</li>
-			<li>Ta fram/byta vapen</li>
-			<li>Röra sig 10 meter</li>
-		</ul>
-
-		<ul><b>Fria handlingar kostar 0 HP</b>
-			<li>Ropa något kort</li>
-		</ul>
-
-		<ul><b>Reaktiva handlingar kostar olika antal HP</b>
-			<li>Försvar i närstrid 1HP</li>
-			<li>Kasta sig i skydd 2HP</li>
-			<li>Motattack 1 HP</li>
-		</ul>
-	</article>
-</section>-->
-
 <section class="left" id="rundor_och_handlingar">
-	<h2>Rundor och handlingar</h2>
+	<h2>Rundor, faser och handlingar</h2>
 	<article>
-		<p>För att göra strider mer lätthanterliga och enkla att överskåda delas de in i rundor. Varje runda är en odefinierad men kort tidsperiod under vilken alla deltagare i striden agerar i tur och ordning (se Vem börjar? nedan). Den person som har initiativet får agera och göra en handling, sedan går turen vidare till nästa person i initiativordningen. När alla deltagare i striden har agerat en gång börjar en ny runda och personen med högst initiativ börjar agera igen.</p>
+		<p>För att göra strider mer lätthanterliga och överskådliga delas de in i rundor. Varje runda är en odefinierad men kort tidsperiod under vilken alla deltagare i striden agerar i tur och ordning. Varje runda är uppdelad i fyra faser - avstånd, närstrid, sejd, och övrigt. Deltagarna i striden agerar i olika rundor beroende vad för typ av handling de tänker utföra.</p>
+
+		<p>Varje runda börjar med avståndsfasen, då alla som tänker använda avståndsvapen av något slag agerar. Därefter följer närstridsfasen då alla som tänker slåss i närstrid agerar. Tredje fasen är sejdfasen, då alla handlingar som använder Sejdkonst görs. Sist i rundan är en fas där alla som vill göra något annat agerar, exempelvis använda någon annan färdighet, röra sig, eller liknande. I varje fas agerar man i initiativordning. Det vill säga att den rollfigur med högst initiativ som tänkt agera i fasen börjar. Initiativ räknas ut genom att slå 1T10 och lägga till rollpersonens Initiativvärde. Om två deltagare får samma initiativ börjar den med högst initiativvärde. Om också det är samma agerar rollpersoner före spelledarpersoner. Om det rör sig om två rollpersoner bestämmer spelarna vem av dem som agerar först.</p>
+
+		<blockquote><p>Exempel: Ulric har initiativ 14, och varelsen han slåss mot han initiativ 16. Ulric är beväpnad med pistol och kommer avfyra ett skott mot varelsen. Varelsen befinner sig en bit bort och saknar avståndsvapen. I första fasen - avstånd - är det endast Ulric som vill agera. Varelsen må ha högre initiativ, men eftersom den inte agerar förrän en senare fas har Ulric möjlighet att göra sin handling före.</p></blockquote>
+
+		<p>Alla som tänker agera i en viss fas meddelar detta innan någon i fasen agerar. När alla som tänker utföra en handling i fasen meddelat det ser man över initiativordningen och den med högst initiativvärde börjar agera.</p>
 
 		<p>Det finns två huvudsakliga typer av strid - närstrid och avståndsstrid. Är personerna på såpass nära avstånd att de kan nå varandra räknas striden som närstrid, även om deltagarna använder skjutvapen (se regler för hur skjutvapen fungerar i närstrid nedan).</p>
 	</article>
-	<article>
-		<h3>Vem börjar?</h3>
-		<p>För att avgöra vem som agerar först inleds striden med att alla slår ett initiativslag. Slå initiativvärdet + 1T10. Den som slår högst agerar först, följt av den som slog näst högst, och så vidare. Om två deltagare får samma initiativ börjar den med högst initiativvärde. Om också det är samma agerar rollpersoner före spelledarpersoner. Om det rör sig om två rollpersoner bestämmer spelarna vem av dem som agerar först.</p>
-	</article>
+	
 	<article>
 		<h3>Närstrid</h3>
 		<p>Rollfigurerna agerar i iniatitivordning. Personen som har initiativet väljer hur hon agerar. Om hon väljer att attackera en annan rollfigur får denne välja mellan att försöka undvika eller slå tillbaka.</p>

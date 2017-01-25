@@ -4,6 +4,16 @@
 
 <section class="left" id="blogg">
 	<h2>Blogg</h2>
+<article>
+		<h3>Strider och bakgrund - 2017-01-26</h3>
+		<h4>Nytt stridssystem</h4>
+		<p>Sedan vi senast hördes har stridssystemet genomgått ordentliga revideringar. Jag har skrotat den inledande idén om handlingspoäng och i stället valt att köra på ett enklare system där varje deltagare i striden har en huvudhandling och en sidohandling. Dessutom delas stridsrundan upp i fyra faser - avståndsstrid, närstrid, sejd, och övrigt. Varje deltagare i striden kan agera i en runda, beroende på vad för typ av handling de tänker göra. Avståndsstrid görs före närstrid, som görs före sejd, och så vidare. I varje fas agerar deltagarna i initiativordning.</p>
+		
+		<h4>Bakgrundstabeller</h4>
+		<p>Utöver strider har jag också arbetat på ett system för att ta fram rollpersonernas bakgundshistorier. Det finns sammanlagt sex tabeller, uppledat över tre faser i livet - barn, ungdom, och ung vuxen. Varje livfas har en tabell för omvälvande händelser, samt en tabell mer unik för just den fasen. De flesta resultat i tabellen är tämligen mörka och deprimerande, och de rollpersoner jag testat att skapa hittills har haft minst sagt en tuff uppväxt. Jag planerar att revidera tabellerna något och blanda upp med lite mindre hemska resultat. Dock är världen som Skrômt utspelar sig i rätt mörk, och rollpersonerna kommer till stor del vara trasiga människor på vägen mot vansinne. Men det behöver ju inte dras till sin spets.</p>
+		<hr>
+	</article>
+
 	<article>
 		<h3>Hello world - 2017-01-16</h3>
 		<p>Så det här är Skrômts alldeles egna lilla blogg. Här kommer jag skriva om saker som har med spelet eller hemsidan att göra.</p>
